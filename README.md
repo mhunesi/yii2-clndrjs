@@ -53,3 +53,4 @@ Once the extension is installed, simply use it in your code by  :
 Screenshots
 -----
 
+![screen-1](https://media.giphy.com/media/ZbfLZYAdUJoo0gj2tI/giphy.gif)
